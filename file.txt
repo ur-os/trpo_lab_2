@@ -1,2 +1,3 @@
 Some text in file for text
 
+Добавил строку
